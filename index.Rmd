@@ -1,31 +1,25 @@
 ---
 title: "Andrea Monzalvo"
-image: "frank.jpg"
+image: "mendels-laws-human-evolution-human-chromosomes.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
+  
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://mobile.twitter.com/MonzalvoAndrea"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/AndreaMonzalvo1"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "andreadm@lcg.unam.mx"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Andrea is a Genomic Sciences student in the National Autonomous University of Mexico.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**UNAM** | Cambridge, MA
 
 Ph.D. in Computer Science | September 2009 - May 2014
 
